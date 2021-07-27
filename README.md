@@ -1,7 +1,7 @@
 # CifarTrainer
 
-cifar dataset
-1. get data
-2. train
-3. evaluate on test set and get accuracy metrics
-4. save results
+Using Cifar dataset
+
+1. train different models
+2. evaluate on test set and get accuracy metrics
+3. save results
